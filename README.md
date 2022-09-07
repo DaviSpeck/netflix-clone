@@ -1,2 +1,2 @@
-# cloneNetflix
-Clone da Netflix construído no bootcamp: Impulso Fullstack Web Developer da DIO
+# Netflix Clone
+Netflix clone built with HTML and CSS
